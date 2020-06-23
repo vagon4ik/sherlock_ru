@@ -12,7 +12,8 @@
 • <code>cd sherlock_2.0</code><br>
 • <code>python3 sherl_2.0.py</code><br>
   p.s обращаюсь ко всем владельцем phone (я не буду писать код для phone потому что переходите на android)
-  Будут вопросы - пишите в телеграм чат - https://t.me/joinchat/PMg-a0Ku-RER_4RogPNZmg<br>
+  
+  <br>Будут вопросы - пишите в телеграм чат - https://t.me/joinchat/PMg-a0Ku-RER_4RogPNZmg</br>
  
  <b>Приятного пользования!</b>
   
