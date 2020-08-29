@@ -1,4 +1,4 @@
-# sherlock_2.0
+# sherlock_ru
 <br>Ультилита для поиска человека(животного который тебя обозвал)  его вычеслить и наказать</br>
 # Как установить?
 <br>Легко)</br>
@@ -8,10 +8,10 @@
 • <code>apt install git</code><br>
 • <code>apt install python</code><br>
 • <code>apt install python3</code><br>
-• <code>git clone https://github.com/vagon4ik/sherlock_2.0</code><br>
-• <code>cd sherlock_2.0</code><br>
-• <code>python3 sherl_2.0.py</code><br>
-  p.s обращаюсь ко всем владельцем phone (я не буду писать код для phone потому что переходите на android)
+• <code>git clone https://github.com/vagon4ik/sherlock_ru</code><br>
+• <code>cd sherlock_ru</code><br>
+• <code>python3 sherl_ru.py</code><br>
+  p.s обращаюсь ко всем владельцем phone (все почти аналогично )
   
   <br>Будут вопросы - пишите в телеграм чат - https://t.me/joinchat/PMg-a0Ku-RER_4RogPNZmg</br>
  
