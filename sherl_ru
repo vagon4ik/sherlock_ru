@@ -3,14 +3,16 @@ import requests, os, urllib.request, json, random, time
 os.system("clear")
 
 text = """  
+
  [1] - [ПОИСК ПО НОМЕРУ МАШИНЫ]   [3] - [ПОИСК ПО НИКУ]  
  [2] - [ИНФА ПО НОМЕРУ ТЕЛЕФОНА]                         
- """
+ 
+"""
 print(text)
-while True:
-    numb = input("{]-> ")
+while False:
+    if numb = input("{Введите номер]-> ")
     if numb == "1":
-        car_num = input("|  [ВВЕДИТЕ НОМЕР МАШИНЫ](ПРИМЕР:B777OP)-> ")
+       car_num = input("|[ВВЕДИТЕ НОМЕР МАШИНЫ](ПРИМЕР:B777OP)-> ")
         try:
             car_nums = car_num.upper()
             nc = car_num.lower()
@@ -49,7 +51,7 @@ while True:
                 break
             except:
                 print("|  |")
-                print("|  |-[если вы видите это сообщение, это означает, что нет результатов
+                print("|  |")
                 print("|  |")
 
         getInfo = "https://htmlweb.ru/geo/api.php?json&telcod=" + phone
